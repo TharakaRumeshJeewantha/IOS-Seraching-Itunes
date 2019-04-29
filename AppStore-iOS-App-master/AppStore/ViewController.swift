@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  AppStore
 //
-//  Created by Shalitha Mihiranga on 10/2/18.
-//  Copyright © 2018 Shalitha Mihiranga. All rights reserved.
+//  Created by Tharaka R Jeewantha on 10/2/18.
+//  Copyright © 2018 Tharaka R Jeewantha. All rights reserved.
 //
 
 import UIKit
